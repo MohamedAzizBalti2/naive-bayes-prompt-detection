@@ -1,7 +1,7 @@
-# Naive Bayes Prompt Detection
+# Prompt Detection Model
 
 ## Overview
-This project aims to detect various types of prompts using a Naive Bayes classifier. The model is trained to classify phrases into different categories, such as "PII", "benign", "injection", and "jailbreak".
+This project aims to detect various types of prompts. The model is trained to classify phrases into different categories, such as "benign", "injection", and "jailbreak".
 
 ## Getting Started
 
